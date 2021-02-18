@@ -20,5 +20,8 @@
   "homepage": "https://github.com/phisyche/clu#readme",
   "devDependencies": {
     "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "crypto-js": "^4.0.0"
   }
 }
